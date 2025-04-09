@@ -14,7 +14,7 @@ function App() {
   return (
     <div className="App">
       <h1>Student List of Avanti Kantumuchu</h1>
-      <table border="1" cellPadding="10" align="center">
+      <table border="1" cellPadding="10" className="center-table">
         <thead>
           <tr>
             <th>Name</th>
