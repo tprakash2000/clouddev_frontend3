@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/clouddev_frontend3/static/css/main.02c2f863.css",
+    "main.js": "/clouddev_frontend3/static/js/main.f2db4de7.js",
+    "static/js/453.8d843dd9.chunk.js": "/clouddev_frontend3/static/js/453.8d843dd9.chunk.js",
+    "index.html": "/clouddev_frontend3/index.html",
+    "main.02c2f863.css.map": "/clouddev_frontend3/static/css/main.02c2f863.css.map",
+    "main.f2db4de7.js.map": "/clouddev_frontend3/static/js/main.f2db4de7.js.map",
+    "453.8d843dd9.chunk.js.map": "/clouddev_frontend3/static/js/453.8d843dd9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02c2f863.css",
+    "static/js/main.f2db4de7.js"
+  ]
+}
